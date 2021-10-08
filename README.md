@@ -1,6 +1,10 @@
 # Sistem-SAPRAS
 Project Ujikom SAPRAS
 
+
+!!! Discontinued !!!
+I'll remake this project later
+
 Import db_ujikom2.sql ke database dengan nama db_ujikom2 di phpmyadmin 
 
 Login Petugas : 
